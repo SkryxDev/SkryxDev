@@ -14,4 +14,7 @@ skryxdev@skryxdev:~ $ npm run skryxdev
 [![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![NEXT](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![NODE](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
