@@ -6,7 +6,7 @@ skryxdev@skryxdev:~ $ npm run skryxdev
 🎯 Discord: SkryxDev#0001
 🌐 Country: Italy
 💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, NextJS
-🪟 OS: Windows 11
+🪟 OS: Ubuntu 22.10
 ⌨️ IDE: Visual Studio Code
 ```
 
