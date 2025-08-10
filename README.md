@@ -3,7 +3,7 @@ skryxdev@skryxdev:~ $ npm run skryxdev
 ```
 
 ```csharp
-🎯 Discord: SkryxDev#0001
+🎯 Discord: 24_7dev
 🌐 Country: Italy
 💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, Express
 🪟 OS: Windows 11 (Atlas Os)
