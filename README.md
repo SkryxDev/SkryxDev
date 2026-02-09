@@ -1,12 +1,12 @@
 ```zsh
-skryxdev@skryxdev:~ $ npm run skryxdev
+skryxdev@skryxdev:~ $ sudo dnf install skryxdev
 ```
 
 ```csharp
 🎯 Discord: 24_7dev
 🌐 Country: Italy
-💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, Express
-🪟 OS: Windows 11 (Atlas Os)
+💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, Express, Proxmox, LXC
+🪟 OS: Fedora Workstation 43
 ⌨️ IDE: Visual Studio Code
 ```
 
