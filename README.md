@@ -10,6 +10,7 @@ skryxdev@skryxdev:~ $ sudo dnf install skryxdev
 ⌨️ IDE: Visual Studio Code
 ```
 
+[![LINUX](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
