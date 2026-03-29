@@ -6,7 +6,7 @@ skryxdev@skryxdev:~ $ sudo dnf install skryxdev
 🎯 Discord: 24_7dev
 🌐 Country: Italy
 💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, Express, Proxmox, LXC
-🪟 OS: Fedora Workstation 43, MacOS Tahoe
+🪟 OS: MacOS Tahoe, Fedora Workstation 43
 ⌨️ IDE: Visual Studio Code
 ```
 
