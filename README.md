@@ -1,5 +1,5 @@
 ```zsh
-skryxdev@skryxdev:~ $ sudo dnf install skryxdev
+skryxdev@skryxdev:~ $ sudo brew install skryxdev
 ```
 
 ```csharp
