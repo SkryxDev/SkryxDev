@@ -3,9 +3,9 @@ skryxdev@skryxdev:~ $ sudo brew install skryxdev
 ```
 
 ```csharp
-🎯 Discord: 24_7dev
+🎯 Discord: skryxdev
 🌐 Country: Italy
-💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, Express, Proxmox, LXC
+💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, Express, Proxmox, LXC, Java, PaperAPI, SpigotAPI
 🪟 OS: MacOS Tahoe, Fedora Workstation 43
 ⌨️ IDE: Visual Studio Code
 ```
