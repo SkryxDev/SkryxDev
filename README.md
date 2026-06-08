@@ -10,10 +10,3 @@ skryxdev@skryxdev:~ $ sudo brew install skryxdev
 🪟 OS: MacOS Tahoe, Fedora Workstation 43
 ⌨️ IDE: Visual Studio Code, IntelliJ IDEA Ultimate, Cursor
 ```
-
-[![LINUX](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![REACT](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
