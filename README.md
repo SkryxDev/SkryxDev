@@ -3,6 +3,7 @@ skryxdev@skryxdev:~ $ sudo brew install skryxdev
 ```
 
 ```csharp
+🌐 Portfolio: https://skryxdev.eu
 🎯 Discord: skryxdev
 🌐 Country: Italy
 💻 Language: Javascript, Typescript, HTML, CSS, ReactJS, Express, Proxmox, LXC, Java, PaperAPI, SpigotAPI
