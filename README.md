@@ -1,7 +1,5 @@
 <div align="center">
 
-# skryxdev
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-skryxdev.eu-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://skryxdev.eu)
 [![Discord](https://img.shields.io/badge/Discord-skryxdev-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/skryxdev)
 
