@@ -15,5 +15,5 @@ skryxdev@skryxdev:~ $ sudo brew install skryxdev
 💻 Language:  JavaScript, TypeScript, HTML, CSS, ReactJS, Express, Java, Kotlin (learning)
 🛠️ Tools:     Proxmox, LXC, PaperAPI, SpigotAPI
 🪟 OS:        macOS Tahoe
-⌨️ IDE:       Visual Studio Code, IntelliJ IDEA Ultimate, Webstorm, DataGrip
+⌨️ IDE:       Visual Studio Code, IntelliJ IDEA Ultimate, WebStorm, DataGrip
 ```
